@@ -23,6 +23,6 @@ As my aim for this task is to test how much programming skills I still remember,
 
 So I am so surprised by the animination tag and the complicated positioning logic of CSS.
 
-Also this task only works for Chrome and Edge. Hope you can eno=joy it. 😄
+Also this task only works for Chrome and Edge. Hope you can enojoy it. 😄
 
 Hope I can get rid of CSS diffidulties in my future tasks.
