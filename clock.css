@@ -1,6 +1,8 @@
-
+/* Noto Sans JP font family */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap');
 
+/* baground color varies by time,
+10 seconds per cycle, with three colours */
 @keyframes changeBGColor {
 	0% {background-color : #000000;}
 	25% {background-color : #198964;}
@@ -14,8 +16,9 @@ body {
 	height : 90%;
 }
 
+/* font styles and div spacing */
 div {
-	font-family : 'DotGothic16', sans-serif;
+	font-family: 'Noto Sans JP', sans-serif;
 	letter-spacing : 10px;
 	color : #FFFFFF;
 	text-shadow : 5px 5px #808080;
